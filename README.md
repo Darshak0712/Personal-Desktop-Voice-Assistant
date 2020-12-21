@@ -142,6 +142,8 @@ limitations that's why i am not sharing my personal API keys but you can get it 
   untill we desire. But now you will think that if that happen so he will here everythings whatever we said and try to process everything that we don't want. To prevent this i 
 	have created sleep mode function.
 	
+-  There is function **Password** , i have created it but currently not using it, putting it in my future developement idea. basically you can use it for some special service that only you like to access. It's currently in just a basics , but it is in more developement  mode so in future you will see more advance in this function.it will be very useful function once perfectly completed.
+
 -  Once sleep mode is activated , it's like running process in background and at that time no other commands will process except from wake up or close commands. i will provide source for 
    non-technical people to understand process keywords to start any process by voice assistant.Already examples are given but i'll provide full list of keywords that you may use
 	 to perform different taks.
@@ -163,7 +165,7 @@ limitations that's why i am not sharing my personal API keys but you can get it 
  Future Developement Planning :
  ---
 
--  I will be working on this project to add some extra new features. Also i have some ideas regarding some code modifications and new features to integrate with this like whatsapp automation ,
+-  I will be working on this project to add some extra new features. Also i have some ideas regarding some code modifications and new features to integrate with this like whatsapp automation , passwords detection modificaions & encoding ,
    sleep mode modifications(auto sleep while continuously command failure), and many more surprises are coming soon.
 	 
 -  Most welcome for ideas and suggestions from your side because the more we will be together, more better results we can get together. **sharing is caring**😊 
