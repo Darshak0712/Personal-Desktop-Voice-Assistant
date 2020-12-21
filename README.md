@@ -153,6 +153,7 @@ limitations that's why i am not sharing my personal API keys but you can get it 
 -  i hope now you don't have confusion regarding sleep mode and exit. inshort sleep mode is just like pausing assistant for some time and then we can again activate using speech commands
    but once we have perform exit(**keywords for exit** _`'bye'`_ , _`'stop this'`_,_`'close this'`_,etc. ) then program will stop execution and then we can't use it with directly voice
 	 commands untill we run it again.
+-  Don't forget to chek your internet connection because many of above want proper internet connectivity.
 
 -  if you have still confusion then you can contact me.
 
